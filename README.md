@@ -1,5 +1,4 @@
-# ESP32-C6 device with ST7789 TFT display and connected BME280 senso
- rGetting started with a BME280 environment sensor connected to an ESP32-C6 Supermini device
+# ESP32-C6 device with ST7789 TFT display and connected BME280 sensor
  Getting started with a **BME280** environment sensor connected to an **ESP32-C6 Supermini** device and a TFT display with driver chip **ST7789**.
 
 This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-C6 Supermini device**".
